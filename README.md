@@ -1,7 +1,5 @@
-# Sonicblader
-
-#### Descripcion:
-
-Desarrollador fronted en camino con dominio de lenguaje Javascript.
- ##Developer fronted junior 
- ##Designer web 
+#DEVELOPER FRONTED
+Beginner web developer
+###TECH
+*[JavaScript]-intermedie
+>starting from scratch is the best because you enjoy the journey
