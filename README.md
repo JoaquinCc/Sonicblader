@@ -12,3 +12,4 @@ Beginner web developer
 > Starting from scratch is the best because you enjoy the journey
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JoaquinCc11?color=1DA1F2&logo=twitter&style=for-the-badge)
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
