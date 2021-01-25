@@ -1,13 +1,10 @@
-#👨‍💻Hi i am Joaquin
+# 👨‍💻Hi i am Joaquin
 ## WEB DEVELOPER
 Beginner web developer
 ### SKILLS
-* Html 
-<img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-* Css
-<img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-* [JavaScript]-intermedie
-<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+* <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+* <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+* <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 > Starting from scratch is the best because you enjoy the journey
 
