@@ -1,14 +1,20 @@
-# 👨‍💻Hi i am Joaquin
-## WEB DEVELOPER
-Beginner web developer
-### 🎯**SKILLS**
-* <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-* <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-* <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+# console.log("Hola mundo👋")
+Hola mi nombre es Joaquin y soy un desarrollador Junior y especialista en modelamiento y diseño de base de datos en formación.Mis proyectos se enfocan en el diseño y desarrollo web.Mis principales lenguajes de programación/plataformas son:Javascript, Php, Bootstrap 5, Sql, C# and nodejs 
 
-> Starting from scratch is the best because you enjoy the journey
-### 🙄SOCIAL
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Sonicblader)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/JOAQUIN_CC)
-[<img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joaquin_ccordova/)
-[<img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/JoaquinCc11)
+Puedes seguirme en los siguientes sitios donde constantemente publico nuevo contenido
+
+- 💼 Mi [linkedin](https://www.linkedin.com/in/wjoaquincc/) personal
+- 📝 Mi blog [JoaquinCc]() version beta
+- 👉 Mis redes sociales [facebook]() y [Instagram]()
+
+## Tecnologias
+<div>
+  <a><img height="32" width="32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </a>
+  <a><img height="32" width="32" src = "https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/></a>
+  <a><img height="32" width="32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/></a>
+  <a><img height="32" width="32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></a>
+  <a><img height="32" width="32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></a>
+  <a><img height="32" width="32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></a>
+</div>
+
+
