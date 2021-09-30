@@ -5,7 +5,7 @@ Puedes seguirme en los siguientes sitios donde constantemente publico nuevo cont
 
 - 💼 Mi [linkedin](https://www.linkedin.com/in/wjoaquincc/) personal
 - 📝 Mi blog [JoaquinCc]() version beta
-- 👉 Mis redes sociales [Telgram](https://t.me/JOAQUIN_CC) y [Instagram](https://www.instagram.com/joaquin_ccordova/)
+- 👉 Mis redes sociales [Teelgram](https://t.me/JOAQUIN_CC) y [Instagram](https://www.instagram.com/joaquin_ccordova/)
 
 ## Tecnologias
 <div>
@@ -16,5 +16,10 @@ Puedes seguirme en los siguientes sitios donde constantemente publico nuevo cont
   <a><img height="32" width="32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></a>
   <a><img height="32" width="32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></a>
 </div>
+
+## Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonicblader)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
