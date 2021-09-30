@@ -1,11 +1,12 @@
 # console.log("Hola mundo👋")
-Hola mi nombre es Joaquin y soy un desarrollador Junior y especialista en modelamiento y diseño de base de datos en formación.Mis proyectos se enfocan en el diseño y desarrollo web.Mis principales lenguajes de programación/plataformas son:Javascript, Php, Bootstrap 5, Sql, C# and nodejs 
+
+Hola mi nombre es Joaquin y soy un desarrollador Junior y especialista en modelamiento y diseño de base de datos en formación. Mis proyectos se enfocan en el diseño y desarrollo web. Los principales lenguajes de programación/plataformas que utilizo son: **Javascript**, **Php**, **Bootstrap 5**, **Sql**, **C#** and **nodejs** 
 
 Puedes seguirme en los siguientes sitios donde constantemente publico nuevo contenido
 
 - 💼 Mi [linkedin](https://www.linkedin.com/in/wjoaquincc/) personal
 - 📝 Mi blog [JoaquinCc]() version beta
-- 👉 Mis redes sociales [Teelgram](https://t.me/JOAQUIN_CC) y [Instagram](https://www.instagram.com/joaquin_ccordova/)
+- 👉 Mis redes sociales [Telegram](https://t.me/JOAQUIN_CC) y [Instagram](https://www.instagram.com/joaquin_ccordova/)
 
 ## Tecnologias
 <div>
