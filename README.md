@@ -5,7 +5,7 @@ Puedes seguirme en los siguientes sitios donde constantemente publico nuevo cont
 
 - 💼 Mi [linkedin](https://www.linkedin.com/in/wjoaquincc/) personal
 - 📝 Mi blog [JoaquinCc]() version beta
-- 👉 Mis redes sociales [facebook]() y [Instagram]()
+- 👉 Mis redes sociales [Telgram](https://t.me/JOAQUIN_CC) y [Instagram](https://www.instagram.com/joaquin_ccordova/)
 
 ## Tecnologias
 <div>
