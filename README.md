@@ -18,8 +18,8 @@ Puedes seguirme en los siguientes sitios donde constantemente publico nuevo cont
 </div>
 
 ## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonicblader&show_icons=true&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonicblader)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
