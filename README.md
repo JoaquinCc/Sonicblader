@@ -1,4 +1,4 @@
-# console.log("Hola mundo👋")
+# console.log("Hola mundo<a><img height="35" width="35" src = "https://user-images.githubusercontent.com/55008701/135545837-af38c86a-5984-49c3-99bb-7b5fe778c694.gif"/></a>")
 
 Hola mi nombre es Joaquin y soy un desarrollador Junior y especialista en modelamiento y diseño de base de datos en formación. Mis proyectos se enfocan en el diseño y desarrollo web. Los principales lenguajes de programación/plataformas que utilizo son: **Javascript**, **Php**, **Bootstrap 5**, **Sql**, **C#** and **nodejs** 
 
@@ -20,7 +20,3 @@ Puedes seguirme en los siguientes sitios donde constantemente publico nuevo cont
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonicblader&show_icons=true&theme=tokyonight)
-
-
-
-
